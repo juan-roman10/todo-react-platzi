@@ -1,5 +1,6 @@
 import React, { useContext } from "react";
 import { TodoContext } from "../../context";
+import { AiOutlinePlus } from "react-icons/ai";
 import './CreateTodoButton.css'
 
 function CreateTodoButton() {
@@ -9,12 +10,10 @@ function CreateTodoButton() {
         setOpenModal(prevState => !prevState);
     }
     return (
-        <button 
+        <AiOutlinePlus 
             className="CreateTodoButton"
             onClick={onClickButton}
-        >
-            +
-        </button>
+        />
     )
 }
 

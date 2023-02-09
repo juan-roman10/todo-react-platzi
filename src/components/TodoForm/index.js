@@ -22,7 +22,6 @@ function TodoForm() {
         setOpenModal(false);
     };
     
-
     return (
         <form onSubmit = { onSubmit }>
             <label>Crea una tarea</label>

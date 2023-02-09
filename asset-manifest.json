@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/introduccion-react/static/css/main.96d57764.css",
-    "main.js": "/introduccion-react/static/js/main.ce2b5d74.js",
-    "index.html": "/introduccion-react/index.html",
-    "main.96d57764.css.map": "/introduccion-react/static/css/main.96d57764.css.map",
-    "main.ce2b5d74.js.map": "/introduccion-react/static/js/main.ce2b5d74.js.map"
+    "main.css": "/todo-react-platzi/static/css/main.96d57764.css",
+    "main.js": "/todo-react-platzi/static/js/main.ce2b5d74.js",
+    "index.html": "/todo-react-platzi/index.html",
+    "main.96d57764.css.map": "/todo-react-platzi/static/css/main.96d57764.css.map",
+    "main.ce2b5d74.js.map": "/todo-react-platzi/static/js/main.ce2b5d74.js.map"
   },
   "entrypoints": [
     "static/css/main.96d57764.css",
